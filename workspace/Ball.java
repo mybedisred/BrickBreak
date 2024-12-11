@@ -1,3 +1,6 @@
+//Author: Spencer Gilcrest
+//Date created 12/4/24
+//This is the Ball class that contains information about the ball in the Brick break game
 import java.awt.*;
 
 public class Ball {

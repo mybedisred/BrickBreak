@@ -1,3 +1,6 @@
+//Author: Spencer Gilcrest
+//date: 12/4/24
+//This is the paddle class that contains information about the paddle (player) in the Brick Break game
 import java.awt.Graphics;
 import java.awt.*;
 
